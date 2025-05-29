@@ -1,0 +1,1 @@
+set(MAP_CORE_SRC map/core/PrimitiveDrawer.cpp)
